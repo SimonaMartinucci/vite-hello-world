@@ -11,5 +11,9 @@
 <style scoped>
     h1 {
         color: black;
+        text-align: center;
+        font-size: 40px;
+        font-weight: 600;
+        margin-top: 30px;
     }
 </style>
